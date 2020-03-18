@@ -6,3 +6,5 @@ Arduino UNO,L298N Motor Shield,Servo motor,2-Stepper Motors(Two Desktop DVD driv
 Arduino IDE,Processng IDE is used as software.
 Stepper motors are controled by the l298 motor shield
 
+
+The outcome of the project was successful and its included in the Projectimages zip file.
